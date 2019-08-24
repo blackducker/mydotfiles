@@ -153,9 +153,11 @@ Bundle 'std_c.zip'
 Bundle 'tpope/vim-surround'
 Bundle 'scrooloose/syntastic'
 Bundle 'majutsushi/tagbar'
-Bundle 'taglist.vim'
+"Bundle 'taglist.vim'                       "source insignht标签追踪跳转
 Bundle 'TxtBrowser'
 Bundle 'ZoomWin'
+Bundle 'chriskempson/vim-tomorrow-theme'
+Bundle 'tomasr/molokai'
 
 " -----------------------------------------------------------------------------
 "  < 编码配置 >
