@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+ENV=$(cd "$(dirname "$0")";pwd)
 #安装brew
 
 #安装zsh
